@@ -32,11 +32,7 @@ Users enter:
 - Track trip status (planned, in-progress, completed)
 
 ## Programming
-- Front-End: React and Tailwind Css
-- Back-End: Node.js and Express
-- Database: MongoDB ( for vision board)
-- APIs: GeoDB Cities, Uncplash or AI API
-- Authentication: Firebase Auth or JWT 
+- Front-End: React, CSS, HTML, JavaScript 
 - Figma Designs : 3 screens: Dashboard, Vision Board, Trip Recommender. 
 
 ## Development Process
